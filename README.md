@@ -63,6 +63,6 @@ It seems that the business would be viable in a smaller city as long as there ar
 
 ## Tools
 
-Python
-Jupyter Notebook
-Tableau
+* Python
+* Jupyter Notebook
+* Tableau
