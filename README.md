@@ -17,7 +17,7 @@ It dawned on me that this is a pretty good business idea that could be applied t
 
 Here is the presentation that I was able to come up with using Tableau.
 
-
+![Slide 1](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide1.png)
 
 The first figure shows us that nearly all of the users use the bikes for less than one hour.  It may be possible to encourage them to go a little longer with discount deals on multiple hours at a time, and we may consider a one hour minimum for the use of the bikes.
 
@@ -63,6 +63,6 @@ It seems that the business would be viable in a smaller city as long as there ar
 
 ## Tools
 
-* Python
-* Jupyter Notebook
-* Tableau
+Python
+Jupyter Notebook
+Tableau
