@@ -21,39 +21,39 @@ Here is the presentation that I was able to come up with using Tableau.
 
 The first figure shows us that nearly all of the users use the bikes for less than one hour.  It may be possible to encourage them to go a little longer with discount deals on multiple hours at a time, and we may consider a one hour minimum for the use of the bikes.
 
-
+![Slide 2](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide2.png)
 
 The second table simply shows us that men tend to rent bikes more than women, but both sexes do so for a similar duration.  It may be useful to allocate the advertising budget accordingly.
 
-
+![Slide 3](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide3.png)
 
 It seems that a large number of the rentals on weekdays are coming from commutes as the peak hours are six to nine in the morning and four to seven in the evening.  The rentals are much more balanced on the weekends which seems to indicate they are more used for leisure than commute.
 
-
+![Slide 4](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide4.png)
 
 There is no sex differential with the aforementioned pattern.
 
-
+![Slide 5](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide5.png)
 
 A large number of the users are subscribers which indicates that they are likely residents of New York City and the surrounding area rather than travelers.
 
-
+![Slide 6](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide6.png)
 
 Bikes are much more commonly used in heavily trafficked areas, particularly Manhattan, than just about anywhere else.
 
-
+![Slide 7](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide7.png)
 
 Most bikes appear to be left in these same areas as well.  This means that transportation costs for relocating bikes are not likely to be prohibitively high.
 
-
+![Slide 8](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide8.png)
 
 Most users are young.  There is a spike in users born after 1995.
 
-
+![Slide 9](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide9.png)
 
 Some bikes are used a great deal more than others.  The lesser used bikes could be relocated during repairs and replacements of the more heavily used bikes.
 
-
+![Slide 10](https://github.com/ForTheGold/bikesharing/blob/main/Slides/Slide10.png)
 
 Most bikes are used for generally the same duration.  Although some are used more than others.
 
