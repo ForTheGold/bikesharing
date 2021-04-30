@@ -62,6 +62,7 @@ Most bikes are used for generally the same duration.  Although some are used mor
 It seems that the business would be viable in a smaller city as long as there are a decent number of residents who are able to commute from home to work by bike.  If there is a good amount of housing within biking distance from the business and financial district would be the next step to research for Des Moines as well as any other city that we plan to launch.  It seems that getting subscribers is the key to success with this business plan.
 
 ## Tools
+
 * Python
 * Jupyter Notebook
 * Tableau
