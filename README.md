@@ -3,7 +3,7 @@
 An analysis of bike sharing data in New York City using Tableau
 
 Story can be found at this link
-https://public.tableau.com/profile/ben8083#!/vizhome/BikeData_16185986598060/Challenge?publish=yes
+[https://public.tableau.com/profile/ben8083#!/vizhome/BikeData_16185986598060/Challenge?publish=yes](Tableau Bike Analysis)
 
 ## Background
 
